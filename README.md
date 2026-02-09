@@ -33,8 +33,6 @@ Backend-focused web application for buying and selling second-hand books.
 - AWS deployment  
 - Docker containerization  
 
-🔗 GitHub Repo: https://github.com/USERNAME/REPO_NAME
-
 ---
 
 ### 🍕 Restaurant Automation System
@@ -43,11 +41,11 @@ Desktop application for managing restaurant operations.
 - C# & WinForms  
 - MSSQL database  
 
-🔗 GitHub Repo: https://github.com/USERNAME/REPO_NAME
+🔗 GitHub Repo: https://github.com/sila2369/Restaurant-Otomasyonu.git
 
 ---
 
 ## 📫 Contact
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/USERNAME  
+- 📧 Email: silaeraslan50@gmail.com
+- 💼 LinkedIn: hwww.linkedin.com/in/sıla-eraslan-4550822a6
 - 🧑‍💻 GitHub: https://github.com/USERNAME
